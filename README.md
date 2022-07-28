@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 To run this webapp, you'll need to clone the repository to your own machine. use `git clone` to accomplish this.
 
-Additionally, you will need an API key from https://openweathermap.org/ You can sign up for an account there using you email address.
+Additionally, you will need an API key from https://openweathermap.org/ You can sign up for an account there using your email address.
 Once you have obtained an API key, edit the `API_KEY` const located in `services/weatherService.js`
 
 If it's a newly minted API key, you may receive errors. If this occurs, wait about 30 minutes and try again.
